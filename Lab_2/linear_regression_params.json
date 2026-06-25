@@ -1,0 +1,10 @@
+{
+    "CIA_to_GPA_Predictor": {
+        "Slope_m": 0.016047938047295582,
+        "Intercept_b": 2.335578286523609
+    },
+    "Attendance_to_GPA_Predictor": {
+        "Slope_m": 0.001702576075887835,
+        "Intercept_b": 3.3749743107248116
+    }
+}
