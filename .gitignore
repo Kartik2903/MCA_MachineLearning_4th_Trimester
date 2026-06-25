@@ -4,3 +4,5 @@ class-activity
 *html
 .my_jupyter_env
 .ipynb_checkpoints
+*.md
+*.docx
