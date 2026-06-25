@@ -2,3 +2,5 @@
 class-activity
 *.pdf
 *html
+.my_jupyter_env
+.ipynb_checkpoints
