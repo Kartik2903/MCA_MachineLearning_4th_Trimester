@@ -4,7 +4,7 @@
         "Intercept_b": 2.335578286523609
     },
     "Attendance_to_GPA_Predictor": {
-        "Slope_m": 0.001702576075887835,
-        "Intercept_b": 3.3749743107248116
+        "Slope_m": 0.0005240822383387672,
+        "Intercept_b": 3.461839929840147
     }
 }
